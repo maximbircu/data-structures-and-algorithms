@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837133cd-0504-445c-bc69-9869344cfa68" name="Default" comment="Li">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/arraylist/Main.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/arraylist/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/arraylist/MyArrayList.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/arraylist/MyArrayList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/doublelinkedlist/DoubleLinkedList.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/doublelinkedlist/DoubleLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/doublelinkedlist/Main.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/doublelinkedlist/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/doublelinkedlist/Node.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/doublelinkedlist/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/linkedlist/LinkedList.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/linkedlist/LinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/linkedlist/Main.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/linkedlist/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/datastructures/linear/list/linkedlist/Node.java" afterPath="$PROJECT_DIR$/src/datastructures/linear/linkedlist/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,55 +17,32 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/data_structures_and_algorithms$ArrayList.coverage" NAME="ArrayList Coverage Results" MODIFIED="1517570391178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <splitter split-orientation="horizontal" split-proportion="0.5">
-            <split-first>
-              <leaf>
-                <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-                  <entry file="file://$PROJECT_DIR$/src/datastructures/linear/arraylist/Main.java">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="28">
-                        <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                        <folding />
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-              </leaf>
-            </split-first>
-            <split-second>
-              <leaf>
-                <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="true">
-                  <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/ArrayList.java">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="219">
-                        <caret line="498" column="18" lean-forward="false" selection-start-line="498" selection-start-column="10" selection-end-line="498" selection-end-column="18" />
-                        <folding>
-                          <element signature="e#15530#15560#1" expanded="true" />
-                          <element signature="e#15590#15591#0" expanded="true" />
-                          <element signature="e#15635#15636#0" expanded="true" />
-                        </folding>
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-              </leaf>
-            </split-second>
-          </splitter>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/datastructures/linear/arraylist/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="219">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#min#0;class#Main#0" expanded="false" />
+                <element signature="method#max#0;class#Main#0" expanded="false" />
+                <element signature="method#addNode#0;class#Main#0" expanded="false" />
+                <element signature="method#breadthFirst#0;class#Main#0" expanded="false" />
+                <element signature="method#preOrder#0;class#Main#0" expanded="false" />
+                <element signature="method#inOrder#0;class#Main#0" expanded="false" />
+                <element signature="method#postOrder#0;class#Main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,6 +65,8 @@
       <find>add</find>
       <find>elementData</find>
       <find>rem</find>
+      <find>oldValue</find>
+      <find>test</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,6 +96,10 @@
         <option value="$PROJECT_DIR$/src/datastructures/linear/list/arraylist/MyArrayList.java" />
         <option value="$PROJECT_DIR$/src/datastructures/linear/list/arraylist/Main.java" />
         <option value="$PROJECT_DIR$/src/datastructures/linear/arraylist/Main.java" />
+        <option value="$PROJECT_DIR$/src/datastructures/tree/binarytrees/Node.java" />
+        <option value="$PROJECT_DIR$/src/datastructures/tree/binarytrees/Main.java" />
+        <option value="$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Node.java" />
+        <option value="$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Main.java" />
       </list>
     </option>
   </component>
@@ -132,9 +110,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="2176" />
-    <option name="width" value="950" />
-    <option name="height" value="801" />
+    <option name="x" value="1920" />
+    <option name="y" value="-40" />
+    <option name="width" value="1920" />
+    <option name="height" value="1120" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -180,7 +159,15 @@
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearchtree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayList">
+  <component name="RunManager" selected="Application.Binary Search Tree (BST)">
     <configuration name="ArrayList" type="Application" factoryName="Application" singleton="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="datastructures.linear.arraylist.Main" />
@@ -231,6 +218,20 @@
     <configuration name="Arrays" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="datastructures.datatypes.composite.Arrays" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="data-structures-and-algorithms" />
+      <envs />
+    </configuration>
+    <configuration name="Binary Search Tree (BST)" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="datastructures.tree.binarytrees.binarysearchtree.Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -299,12 +300,13 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Arrays" />
       <item index="1" class="java.lang.String" itemvalue="Application.Primitive datatypes" />
       <item index="2" class="java.lang.String" itemvalue="Application.ArrayList" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Linked list" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Double Linked list" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Binary Search Tree (BST)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Linked list" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Double Linked list" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -327,10 +329,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18577000" />
+    <option name="totallyTimeSpent" value="18889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-40" width="1920" height="1120" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -340,13 +343,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -355,11 +358,33 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,6 +400,164 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/datastructures/bst/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/arrays/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/list/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/datastructures/datatypes/primitive/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/datatypes/primitive/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="49" column="17" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/datatypes/composite/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/linkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#105#106#0" expanded="false" />
+            <element signature="e#137#138#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/linkedlist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/doublelinkedlist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/doublelinkedlist/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="45" />
+          <folding>
+            <element signature="method#add#0;class#DoubleLinkedList#0" expanded="false" />
+            <element signature="method#printLinkedListFromHeadToTail#0;class#DoubleLinkedList#0" expanded="false" />
+            <element signature="method#printLinkedListFromTailToHead#0;class#DoubleLinkedList#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/linkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#insertAfter#0;class#LinkedList#0" expanded="false" />
+            <element signature="method#applyOnEach#0;class#LinkedList#0" expanded="false" />
+            <element signature="e#1848#1849#0" expanded="false" />
+            <element signature="e#1875#1876#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/doublelinkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="584" column="9" lean-forward="false" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="146" column="16" lean-forward="false" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="498" column="18" lean-forward="false" selection-start-line="498" selection-start-column="10" selection-end-line="498" selection-end-column="18" />
+          <folding>
+            <element signature="e#15530#15560#1" expanded="true" />
+            <element signature="e#15590#15591#0" expanded="true" />
+            <element signature="e#15635#15636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/arraylist/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="method#extendCapacity#0;class#MyArrayList#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/runtime/reflect/Lister.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/linear/arraylist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructures/linear/doublelinkedlist/DoubleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -448,7 +631,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="154">
             <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -527,7 +709,7 @@
         <state relative-caret-position="518">
           <caret line="39" column="5" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="39" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#insertAfter#0;class#LinkedList#0" expanded="false" />
             <element signature="method#applyOnEach#0;class#LinkedList#0" expanded="false" />
             <element signature="e#1848#1849#0" expanded="false" />
@@ -556,22 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="146" column="16" lean-forward="false" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="16" />
-          <folding>
-            <element signature="e#4990#4991#0" expanded="false" />
-            <element signature="e#5047#5048#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="498" column="18" lean-forward="false" selection-start-line="498" selection-start-column="10" selection-end-line="498" selection-end-column="18" />
-          <folding>
-            <element signature="e#15530#15560#1" expanded="true" />
-            <element signature="e#15590#15591#0" expanded="true" />
-            <element signature="e#15635#15636#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -600,6 +766,43 @@
         <state relative-caret-position="28">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="498" column="18" lean-forward="false" selection-start-line="498" selection-start-column="10" selection-end-line="498" selection-end-column="18" />
+          <folding>
+            <element signature="e#15530#15560#1" expanded="true" />
+            <element signature="e#15590#15591#0" expanded="true" />
+            <element signature="e#15635#15636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/tree/binarytrees/binarysearchtree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#min#0;class#Main#0" expanded="false" />
+            <element signature="method#max#0;class#Main#0" expanded="false" />
+            <element signature="method#addNode#0;class#Main#0" expanded="false" />
+            <element signature="method#breadthFirst#0;class#Main#0" expanded="false" />
+            <element signature="method#preOrder#0;class#Main#0" expanded="false" />
+            <element signature="method#inOrder#0;class#Main#0" expanded="false" />
+            <element signature="method#postOrder#0;class#Main#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
