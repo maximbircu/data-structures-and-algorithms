@@ -1,4 +1,4 @@
-package datastructures.linear.list.arraylist;
+package datastructures.linear.arraylist;
 
 public class MyArrayList<E> {
     Object[] data;

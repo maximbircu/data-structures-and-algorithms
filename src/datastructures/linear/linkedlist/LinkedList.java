@@ -1,4 +1,4 @@
-package datastructures.linear.list.linkedlist;
+package datastructures.linear.linkedlist;
 
 import com.sun.istack.internal.Nullable;
 

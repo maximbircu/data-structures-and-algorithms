@@ -1,4 +1,4 @@
-package datastructures.linear.list.doublelinkedlist;
+package datastructures.linear.doublelinkedlist;
 
 class DoubleLinkedList {
     private Node head;

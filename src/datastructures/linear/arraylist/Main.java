@@ -1,4 +1,4 @@
-package datastructures.linear.list.arraylist;
+package datastructures.linear.arraylist;
 
 public class Main {
     public static void main(String[] args) {

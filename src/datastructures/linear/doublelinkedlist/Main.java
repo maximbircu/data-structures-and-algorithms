@@ -1,4 +1,4 @@
-package datastructures.linear.list.doublelinkedlist;
+package datastructures.linear.doublelinkedlist;
 
 public class Main {
     public static void main(String[] args) {
